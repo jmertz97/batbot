@@ -1,3 +1,5 @@
+#i have no idea wtf im doing
+
 # IMPORT DISCORD.PY. ALLOWS ACCESS TO DISCORD'S API.
 import discord
 # Import the os module, load_dotenv function from dotenv module.
